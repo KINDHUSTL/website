@@ -1,17 +1,25 @@
-# DeepSite Locally 🚀
+# Website 
 
 ![Banner Screenshot](./localconfig.png)
 
-Run **DeepSite** on your own environment, without depending on Hugging Face!
-Perfect for those who want to customize, integrate, or simply have full control over the platform.
+Deploy the Website platform within your local infrastructure, eliminating reliance on third-party services such as Hugging Face.
+This self-hosted solution empowers users with:
+
+Extensive customization capabilities to tailor workflows and features to specific requirements.
+
+Seamless integration with existing systems, APIs, or enterprise architectures.
+
+Complete administrative oversight to manage data, security protocols, and scalability autonomously.
+
+Ideal for enterprises and developers prioritizing flexibility, data governance, and full operational control.
 
 ---
 
-## How to Run DeepSite Locally
+## How to Run Website
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/MartinsMessias/deepsite-locally.git
+git clone https://github.com/KINDHUSTL/website.git
 ```
 
 ### 2. Install dependencies
